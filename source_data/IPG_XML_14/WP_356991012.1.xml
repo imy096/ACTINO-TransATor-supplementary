@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<IPGReportSet xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.ncbi.nlm.nih.gov/data_specs/schema/other/seq_report/IPGReportSet.xsd">
+
+<IPGReport  ipg="874095818" product_acc="WP_356991012.1">
+<Product  accver="WP_356991012.1" name="SDR family NAD(P)-dependent oxidoreductase" taxid="568844" slen="7098" org="Microbispora hainanensis" kingdom_taxid="2" kingdom="Bacteria"/>
+<ProteinList>
+<Protein  accver="WP_356991012.1" source="RefSeq" name="SDR family NAD(P)-dependent oxidoreductase" taxid="568844" org="Microbispora hainanensis" kingdom_taxid="2" kingdom="Bacteria" priority="0">
+<CDSList>
+<CDS  accver="NZ_JBEZCY010000014.1" start="7232" stop="28528" strand="+" taxid="568844" org="Microbispora hainanensis" kingdom_taxid="2" kingdom="Bacteria" strain="NPDC049234" assembly="GCF_040647895.1"/></CDSList></Protein>
+<Protein  accver="MEU7690315.1" source="INSDC" name="SDR family NAD(P)-dependent oxidoreductase" taxid="568844" org="Microbispora hainanensis" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="JBEZCY010000014.1" start="7232" stop="28528" strand="+" taxid="568844" org="Microbispora hainanensis" kingdom_taxid="2" kingdom="Bacteria" strain="NPDC049234" assembly="GCA_040647895.1"/></CDSList></Protein></ProteinList>
+<Statistics  prot_count="2" nuc_count="2" assmb_count="2"/></IPGReport></IPGReportSet>

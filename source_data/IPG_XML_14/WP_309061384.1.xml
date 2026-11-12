@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<IPGReportSet xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.ncbi.nlm.nih.gov/data_specs/schema/other/seq_report/IPGReportSet.xsd">
+
+<IPGReport  ipg="696776842" product_acc="WP_309061384.1">
+<Product  accver="WP_309061384.1" name="SDR family NAD(P)-dependent oxidoreductase" taxid="1931" slen="5494" org="Streptomyces sp." kingdom_taxid="2" kingdom="Bacteria"/>
+<ProteinList>
+<Protein  accver="WP_309061384.1" source="RefSeq" name="SDR family NAD(P)-dependent oxidoreductase" taxid="1931" org="Streptomyces sp." kingdom_taxid="2" kingdom="Bacteria" priority="0">
+<CDSList>
+<CDS  accver="NZ_JAPSKQ010000067.1" start="8135" stop="24617" strand="-" taxid="1931" org="Streptomyces sp." kingdom_taxid="2" kingdom="Bacteria" assembly="GCF_031181555.1"/></CDSList></Protein></ProteinList>
+<Statistics  prot_count="1" nuc_count="1" assmb_count="1"/></IPGReport></IPGReportSet>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<IPGReportSet xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.ncbi.nlm.nih.gov/data_specs/schema/other/seq_report/IPGReportSet.xsd">
+
+<IPGReport  ipg="366146887" product_acc="WP_193207199.1">
+<Product  accver="WP_193207199.1" name="SDR family NAD(P)-dependent oxidoreductase" taxid="2771537" slen="7094" org="Microbispora sitophila" kingdom_taxid="2" kingdom="Bacteria"/>
+<ProteinList>
+<Protein  accver="WP_193207199.1" source="RefSeq" name="SDR family NAD(P)-dependent oxidoreductase" taxid="2771537" org="Microbispora sitophila" kingdom_taxid="2" kingdom="Bacteria" priority="0">
+<CDSList>
+<CDS  accver="NZ_JADBGC010000021.1" start="114725" stop="136009" strand="-" taxid="2771537" org="Microbispora sitophila" kingdom_taxid="2" kingdom="Bacteria" strain="NEAU-D428" assembly="GCF_014892245.1"/></CDSList></Protein>
+<Protein  accver="MBE3013929.1" source="INSDC" name="SDR family NAD(P)-dependent oxidoreductase" taxid="2771537" org="Microbispora sitophila" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="JADBGC010000021.1" start="114725" stop="136009" strand="-" taxid="2771537" org="Microbispora sitophila" kingdom_taxid="2" kingdom="Bacteria" strain="NEAU-D428" assembly="GCA_014892245.1"/></CDSList></Protein></ProteinList>
+<Statistics  prot_count="2" nuc_count="2" assmb_count="2"/></IPGReport></IPGReportSet>

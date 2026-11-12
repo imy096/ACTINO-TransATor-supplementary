@@ -1,0 +1,247 @@
+TY  - JOUR
+ID  - Blin2025
+AU  - Blin, K.
+AU  - Shaw, S.
+AU  - Vader, L.
+AU  - Szenei, J.
+AU  - Reitz, Z. L.
+AU  - Augustijn, H. E.
+AU  - Cediel-Becerra, J. D. D.
+AU  - de Crécy-Lagard, V.
+AU  - Koetsier, R. A.
+AU  - Williams, S. E.
+AU  - Cruz-Morales, P.
+AU  - Wongwas, S.
+AU  - Segurado Luchsinger, A. E.
+AU  - Biermann, F.
+AU  - Korenskaia, A.
+AU  - Zdouc, M. M.
+AU  - Meijer, D.
+AU  - Terlouw, B. R.
+AU  - van der Hooft, J. J. J.
+N1  - Large author consortium; DOI import recommended for complete author metadata.
+PY  - 2025
+TI  - antiSMASH 8.0: Extended gene cluster detection capabilities and analyses of chemistry, enzymology, and regulation
+JO  - Nucleic Acids Research
+VL  - 53
+IS  - W1
+SP  - W32–W38
+DO  - 10.1093/nar/gkaf334
+UR  - https://doi.org/10.1093/nar/gkaf334
+ER  - 
+
+TY  - JOUR
+ID  - Camacho2009
+AU  - Camacho, C.
+AU  - Coulouris, G.
+AU  - Avagyan, V.
+AU  - Ma, N.
+AU  - Papadopoulos, J.
+AU  - Bealer, K.
+AU  - Madden, T. L.
+PY  - 2009
+TI  - BLAST+: Architecture and applications
+JO  - BMC Bioinformatics
+VL  - 10
+SP  - 421
+DO  - 10.1186/1471-2105-10-421
+UR  - https://doi.org/10.1186/1471-2105-10-421
+ER  - 
+
+TY  - JOUR
+ID  - Dejtisakdi2024
+AU  - Dejtisakdi, W.
+AU  - Duangupama, T.
+AU  - Thawai, C.
+PY  - 2024
+TI  - Genome insights into the plant growth promoting features of a newly found Microbispora sp. SCL1-1
+JO  - Current Applied Science and Technology
+VL  - 24
+IS  - 6
+SP  - e0260336
+DO  - 10.55003/cast.2024.260336
+UR  - https://doi.org/10.55003/cast.2024.260336
+ER  - 
+
+TY  - JOUR
+ID  - Draisma2026
+AU  - Draisma, A.
+AU  - Loureiro, C.
+AU  - Louwen, N. L. L.
+AU  - Kautsar, S. A.
+AU  - Navarro-Muñoz, J. C.
+AU  - Doering, D. T.
+AU  - Mouncey, N. J.
+AU  - Medema, M. H.
+PY  - 2026
+TI  - BiG-SCAPE 2.0 and BiG-SLiCE 2.0: Scalable, accurate and interactive sequence clustering of metabolic gene clusters
+JO  - Nature Communications
+VL  - 17
+SP  - 2000
+DO  - 10.1038/s41467-026-68733-5
+UR  - https://doi.org/10.1038/s41467-026-68733-5
+ER  - 
+
+TY  - JOUR
+ID  - Eddy2011
+AU  - Eddy, S. R.
+PY  - 2011
+TI  - Accelerated profile HMM searches
+JO  - PLoS Computational Biology
+VL  - 7
+IS  - 10
+SP  - e1002195
+DO  - 10.1371/journal.pcbi.1002195
+UR  - https://doi.org/10.1371/journal.pcbi.1002195
+ER  - 
+
+TY  - JOUR
+ID  - Medema2011
+AU  - Medema, M. H.
+AU  - Blin, K.
+AU  - Cimermancic, P.
+AU  - de Jager, V.
+AU  - Zakrzewski, P.
+AU  - Fischbach, M. A.
+AU  - Weber, T.
+AU  - Takano, E.
+AU  - Breitling, R.
+PY  - 2011
+TI  - antiSMASH: Rapid identification, annotation and analysis of secondary metabolite biosynthesis gene clusters in bacterial and fungal genome sequences
+JO  - Nucleic Acids Research
+VL  - 39
+IS  - Web Server
+SP  - W339–W346
+DO  - 10.1093/nar/gkr466
+UR  - https://doi.org/10.1093/nar/gkr466
+ER  - 
+
+TY  - JOUR
+ID  - Mohite2025
+AU  - Mohite, O. S.
+AU  - Jørgensen, T. S.
+AU  - Booth, T. J.
+AU  - Charusanti, P.
+AU  - Phaneuf, P. V.
+AU  - Weber, T.
+AU  - Palsson, B. O.
+PY  - 2025
+TI  - Pangenome mining of the Streptomyces genus redefines species’ biosynthetic potential
+JO  - Genome Biology
+VL  - 26
+SP  - 9
+DO  - 10.1186/s13059-024-03471-9
+UR  - https://doi.org/10.1186/s13059-024-03471-9
+ER  - 
+
+TY  - JOUR
+ID  - NavarroMunoz2020
+AU  - Navarro-Muñoz, J. C.
+AU  - Selem-Mojica, N.
+AU  - Mullowney, M. W.
+AU  - Kautsar, S. A.
+AU  - Tryon, J. H.
+AU  - Parkinson, E. I.
+AU  - De Los Santos, E. L. C.
+AU  - Yeong, M.
+AU  - Cruz-Morales, P.
+AU  - Abubucker, S.
+AU  - Roeters, A.
+AU  - Lokhorst, W.
+AU  - Fernandez-Guerra, A.
+AU  - Cappelini, L. T. D.
+AU  - Goering, A. W.
+AU  - Thomson, R. J.
+AU  - Metcalf, W. W.
+AU  - Kelleher, N. L.
+AU  - Barona-Gomez, F.
+AU  - Medema, M. H.
+PY  - 2020
+TI  - A computational framework to explore large-scale biosynthetic diversity
+JO  - Nature Chemical Biology
+VL  - 16
+IS  - 1
+SP  - 60–68
+DO  - 10.1038/s41589-019-0400-9
+UR  - https://doi.org/10.1038/s41589-019-0400-9
+ER  - 
+
+TY  - JOUR
+ID  - Pan2017
+AU  - Pan, G.
+AU  - Xu, Z.
+AU  - Guo, Z.
+AU  - Hindra
+AU  - Ma, M.
+AU  - Yang, D.
+AU  - Zhou, H.
+AU  - Gansemans, Y.
+AU  - Zhu, X.
+AU  - Huang, Y.
+AU  - Zhao, L.-X.
+AU  - Jiang, Y.
+AU  - Cheng, J.
+AU  - Van Nieuwerburgh, F.
+AU  - Suh, J.-W.
+AU  - Duan, Y.
+AU  - Shen, B.
+PY  - 2017
+TI  - Discovery of the leinamycin family of natural products by mining actinobacterial genomes
+JO  - Proceedings of the National Academy of Sciences of the United States of America
+VL  - 114
+IS  - 52
+SP  - E11131–E11140
+DO  - 10.1073/pnas.1716245115
+UR  - https://doi.org/10.1073/pnas.1716245115
+ER  - 
+
+TY  - JOUR
+ID  - Phillips2025
+AU  - Phillips, A. P.
+AU  - Winter, A. J.
+AU  - Hooper, C. M.
+AU  - Williams, C.
+AU  - Crosby, J.
+AU  - Willis, C. L.
+AU  - Crump, M. P.
+PY  - 2025
+TI  - Divergent tandem acyl carrier proteins necessitate in-series polyketide processing in the leinamycin family
+JO  - Angewandte Chemie International Edition
+VL  - 64
+IS  - 2
+SP  - e202414165
+DO  - 10.1002/anie.202414165
+UR  - https://doi.org/10.1002/anie.202414165
+ER  - 
+
+TY  - JOUR
+ID  - Zdouc2025
+AU  - Zdouc, M. M.
+AU  - Blin, K.
+AU  - Louwen, N. L. L.
+AU  - Navarro, J.
+AU  - Loureiro, C.
+AU  - Bader, C. D.
+AU  - Bailey, C. B.
+AU  - Barra, L.
+AU  - Booth, T. J.
+AU  - Bozhüyük, K. A. J.
+AU  - Cediel-Becerra, J. D. D.
+AU  - Charlop-Powers, Z.
+AU  - Chevrette, M. G.
+AU  - Chooi, Y. H.
+AU  - D'Agostino, P. M.
+AU  - de Rond, T.
+AU  - Del Pup, E.
+AU  - Duncan, K. R.
+AU  - Gu, W.
+N1  - Large author consortium; DOI import recommended for complete author metadata.
+PY  - 2025
+TI  - MIBiG 4.0: Advancing biosynthetic gene cluster curation through global collaboration
+JO  - Nucleic Acids Research
+VL  - 53
+IS  - D1
+SP  - D678–D690
+DO  - 10.1093/nar/gkae1115
+UR  - https://doi.org/10.1093/nar/gkae1115
+ER  - 

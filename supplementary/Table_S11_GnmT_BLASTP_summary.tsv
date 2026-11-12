@@ -1,0 +1,3 @@
+Reference	Subject	HSPs_All	HSPs_Colinear	ReferenceLength	SubjectLength	GnmT_CoveredAA	Target_CoveredAA	GnmT_ColinearCoveragePct	Target_ColinearCoveragePct	BestHSPIdentityPct	BestHSPBits
+ATY69569.1	MIK3493667.1	34	6	7422	7053	5576	5472	75.13	77.58	43.521	962.0
+ATY69569.1	WP_168066089.1	30	5	7422	7096	6179	6069	83.25	85.53	49.66	1186.0

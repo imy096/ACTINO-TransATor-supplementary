@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<IPGReportSet xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.ncbi.nlm.nih.gov/data_specs/schema/other/seq_report/IPGReportSet.xsd">
+
+<IPGReport  ipg="1039812793" product_acc="WP_498890949.1">
+<Product  accver="WP_498890949.1" name="SDR family NAD(P)-dependent oxidoreductase" taxid="564413" slen="7149" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria"/>
+<ProteinList>
+<Protein  accver="WP_498890949.1" source="RefSeq" name="SDR family NAD(P)-dependent oxidoreductase" taxid="564413" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria" priority="0">
+<CDSList>
+<CDS  accver="NZ_CP191985.1" start="6190880" stop="6212329" strand="-" taxid="564413" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria" strain="CA-151978" assembly="GCF_050945465.1"/>
+<CDS  accver="NZ_CP192064.1" start="6190917" stop="6212366" strand="-" taxid="564413" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria" strain="CA-150777" assembly="GCF_050942365.1"/></CDSList></Protein>
+<Protein  accver="XVQ82880.1" source="INSDC" name="SDR family NAD(P)-dependent oxidoreductase" taxid="564413" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="CP192064.1" start="6190917" stop="6212366" strand="-" taxid="564413" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria" strain="CA-150777" assembly="GCA_050942365.1"/></CDSList></Protein>
+<Protein  accver="XVS27395.1" source="INSDC" name="SDR family NAD(P)-dependent oxidoreductase" taxid="564413" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="CP191985.1" start="6190880" stop="6212329" strand="-" taxid="564413" org="Microbispora siamensis" kingdom_taxid="2" kingdom="Bacteria" strain="CA-151978" assembly="GCA_050945465.1"/></CDSList></Protein></ProteinList>
+<Statistics  prot_count="3" nuc_count="4" assmb_count="4"/></IPGReport></IPGReportSet>

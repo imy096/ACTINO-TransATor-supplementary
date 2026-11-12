@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<IPGReportSet xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.ncbi.nlm.nih.gov/data_specs/schema/other/seq_report/IPGReportSet.xsd">
+
+<IPGReport  ipg="813798496" product_acc="WP_344643858.1">
+<Product  accver="WP_344643858.1" name="SDR family NAD(P)-dependent oxidoreductase" taxid="1883" slen="6819" org="Streptomyces" kingdom_taxid="2" kingdom="Bacteria"/>
+<ProteinList>
+<Protein  accver="WP_344643858.1" source="RefSeq" name="SDR family NAD(P)-dependent oxidoreductase" taxid="1883" org="Streptomyces" kingdom_taxid="2" kingdom="Bacteria" priority="0">
+<CDSList>
+<CDS  accver="NZ_BAAASS010000005.1" start="506899" stop="527358" strand="-" taxid="68197" org="Streptomyces fimbriatus" kingdom_taxid="2" kingdom="Bacteria" strain="JCM 5080" assembly="GCF_039533005.1"/>
+<CDS  accver="NZ_JBHSKL010000009.1" start="112666" stop="133125" strand="-" taxid="68197" org="Streptomyces fimbriatus" kingdom_taxid="2" kingdom="Bacteria" strain="CGMCC 4.1598" assembly="GCF_042657825.1"/></CDSList></Protein>
+<Protein  accver="GAA2545583.1" source="INSDC" name="hypothetical protein" taxid="68197" org="Streptomyces fimbriatus" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="BAAASS010000005.1" start="506899" stop="527358" strand="-" taxid="68197" org="Streptomyces fimbriatus" kingdom_taxid="2" kingdom="Bacteria" strain="JCM 5080" assembly="GCA_039533005.1"/></CDSList></Protein>
+<Protein  accver="MER6801813.1" source="INSDC" name="SDR family NAD(P)-dependent oxidoreductase" taxid="3154268" org="Streptomyces sp. NPDC000678" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="JBEPCN010000003.1" start="6621" stop="27080" strand="+" taxid="3154268" org="Streptomyces sp. NPDC000678" kingdom_taxid="2" kingdom="Bacteria" strain="NPDC000678" assembly="GCA_040299725.1"/></CDSList></Protein>
+<Protein  accver="MFC5224445.1" source="INSDC" name="SDR family NAD(P)-dependent oxidoreductase" taxid="68197" org="Streptomyces fimbriatus" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="JBHSKL010000009.1" start="112666" stop="133125" strand="-" taxid="68197" org="Streptomyces fimbriatus" kingdom_taxid="2" kingdom="Bacteria" strain="CGMCC 4.1598" assembly="GCA_042657825.1"/></CDSList></Protein></ProteinList>
+<Statistics  prot_count="4" nuc_count="5" assmb_count="5"/></IPGReport></IPGReportSet>

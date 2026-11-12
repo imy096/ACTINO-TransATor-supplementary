@@ -1,0 +1,58 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PS-DH                PF14765.14   164 DH_like_WP_309061376.1 -            330   8.4e-16   48.2   0.1   1   1   1.6e-16   1.3e-15   47.6   0.1     5   159   123   275   119   278 0.85 Polyketide synthase dehydratase N-terminal domain
+PKS_DH_N             PF21089.5    103 DH_like_WP_309061376.1 -            330   4.6e-12   36.1   0.1   1   1   8.9e-13   7.6e-12   35.4   0.1    25    98    14    88     3    93 0.89 Polyketide synthase dehydratase domain
+ketoacyl-synt        PF00109.33   252 Partial_target_WP_309061384.1 -           5494         0 1206.9   5.6   1   4   2.9e-92   3.7e-92  298.5   0.0     2   252   362   605   361   605 0.96 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.33   252 Partial_target_WP_309061384.1 -           5494         0 1206.9   5.6   2   4   1.4e-98   1.8e-98  319.2   0.2     2   252  1213  1462  1212  1462 0.96 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.33   252 Partial_target_WP_309061384.1 -           5494         0 1206.9   5.6   3   4   1.7e-92   2.2e-92  299.3   0.0     3   251  2683  2928  2682  2929 0.95 Beta-ketoacyl synthase, N-terminal domain
+ketoacyl-synt        PF00109.33   252 Partial_target_WP_309061384.1 -           5494         0 1206.9   5.6   4   4   7.2e-89   9.4e-89  287.4   1.7     3   252  4215  4454  4213  4454 0.94 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.29   119 Partial_target_WP_309061384.1 -           5494  1.4e-156  502.5  19.6   1   4   3.7e-44   4.9e-44  139.4   0.8     1   118   613   728   613   729 0.98 Beta-ketoacyl synthase, C-terminal domain
+Ketoacyl-synt_C      PF02801.29   119 Partial_target_WP_309061384.1 -           5494  1.4e-156  502.5  19.6   2   4   3.9e-39   5.1e-39  123.2   0.1     1   117  1470  1586  1470  1588 0.97 Beta-ketoacyl synthase, C-terminal domain
+Ketoacyl-synt_C      PF02801.29   119 Partial_target_WP_309061384.1 -           5494  1.4e-156  502.5  19.6   3   4   3.3e-39   4.4e-39  123.4   0.8     2   119  2938  3062  2937  3062 0.95 Beta-ketoacyl synthase, C-terminal domain
+Ketoacyl-synt_C      PF02801.29   119 Partial_target_WP_309061384.1 -           5494  1.4e-156  502.5  19.6   4   4   1.6e-40   2.1e-40  127.7   0.5     1   118  4462  4586  4462  4587 0.94 Beta-ketoacyl synthase, C-terminal domain
+KR                   PF08659.18   181 Partial_target_WP_309061384.1 -           5494  1.1e-150  488.1   3.2   1   3   1.7e-47   2.2e-47  151.4   0.2     1   180    76   257    76   258 0.96 KR domain
+KR                   PF08659.18   181 Partial_target_WP_309061384.1 -           5494  1.1e-150  488.1   3.2   2   3   5.6e-51   7.3e-51  162.8   0.4     1   179  2286  2464  2286  2466 0.96 KR domain
+KR                   PF08659.18   181 Partial_target_WP_309061384.1 -           5494  1.1e-150  488.1   3.2   3   3   8.9e-54   1.2e-53  171.9   0.0     1   180  3793  3977  3793  3978 0.98 KR domain
+PP-binding           PF00550.33    67 Partial_target_WP_309061384.1 -           5494   5.5e-69  218.6  14.2   1   5   3.3e-17   4.3e-17   52.4   0.1     1    67  1054  1120  1054  1120 0.98 Phosphopantetheine attachment site
+PP-binding           PF00550.33    67 Partial_target_WP_309061384.1 -           5494   5.5e-69  218.6  14.2   2   5   1.2e-13   1.6e-13   41.0   0.0     2    67  2557  2621  2556  2621 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.33    67 Partial_target_WP_309061384.1 -           5494   5.5e-69  218.6  14.2   3   5   9.4e-18   1.2e-17   54.1   0.6     2    67  4053  4118  4052  4118 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.33    67 Partial_target_WP_309061384.1 -           5494   5.5e-69  218.6  14.2   4   5   8.9e-17   1.2e-16   51.0   0.1     2    67  4896  4961  4895  4961 0.96 Phosphopantetheine attachment site
+PP-binding           PF00550.33    67 Partial_target_WP_309061384.1 -           5494   5.5e-69  218.6  14.2   5   5   6.4e-09   8.3e-09   25.8   0.2     5    66  5003  5060  5002  5061 0.92 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.13   111 Partial_target_WP_309061384.1 -           5494   1.2e-64  205.9   0.0   1   4   2.4e-16   3.2e-16   50.0   0.0     2    84   732   818   731   854 0.84 Ketoacyl-synthetase C-terminal extension
+KAsynt_C_assoc       PF16197.13   111 Partial_target_WP_309061384.1 -           5494   1.2e-64  205.9   0.0   2   4   2.8e-13   3.7e-13   40.1   0.0     1    84  1590  1679  1590  1688 0.86 Ketoacyl-synthetase C-terminal extension
+KAsynt_C_assoc       PF16197.13   111 Partial_target_WP_309061384.1 -           5494   1.2e-64  205.9   0.0   3   4   1.5e-18     2e-18   57.1   0.0     1    97  3064  3168  3064  3185 0.81 Ketoacyl-synthetase C-terminal extension
+KAsynt_C_assoc       PF16197.13   111 Partial_target_WP_309061384.1 -           5494   1.2e-64  205.9   0.0   4   4   2.2e-17   2.9e-17   53.3   0.0     1   107  4589  4706  4589  4709 0.93 Ketoacyl-synthetase C-terminal extension
+PS-DH                PF14765.14   164 Partial_target_WP_309061384.1 -           5494   4.1e-52  166.3   9.5   1   2   5.4e-30   7.1e-30   94.0   1.4     4   160  1921  2064  1918  2067 0.88 Polyketide synthase dehydratase N-terminal domain
+PS-DH                PF14765.14   164 Partial_target_WP_309061384.1 -           5494   4.1e-52  166.3   9.5   2   2   1.8e-24   2.3e-24   76.1   1.4     3   160  3402  3546  3400  3550 0.95 Polyketide synthase dehydratase N-terminal domain
+RhiE-like_linker     PF22336.4     67 Partial_target_WP_309061384.1 -           5494   3.5e-47  148.5  28.4   1   4   3.9e-14   5.1e-14   42.3   0.3     1    66   798   871   798   872 0.92 RhiE-like, KS-MAT linker domain
+RhiE-like_linker     PF22336.4     67 Partial_target_WP_309061384.1 -           5494   3.5e-47  148.5  28.4   2   4   7.8e-10     1e-09   28.5   0.2     3    66  1661  1730  1660  1731 0.87 RhiE-like, KS-MAT linker domain
+RhiE-like_linker     PF22336.4     67 Partial_target_WP_309061384.1 -           5494   3.5e-47  148.5  28.4   3   4   1.6e-14   2.1e-14   43.5   5.7     1    66  3134  3202  3134  3203 0.97 RhiE-like, KS-MAT linker domain
+RhiE-like_linker     PF22336.4     67 Partial_target_WP_309061384.1 -           5494   3.5e-47  148.5  28.4   4   4   1.6e-15   2.1e-15   46.7   3.5     2    67  4664  4730  4663  4730 0.96 RhiE-like, KS-MAT linker domain
+CurL-like_PKS_C      PF22621.4     64 Partial_target_WP_309061384.1 -           5494     1e-44  140.7  16.2   1   3   3.4e-13   4.5e-13   39.3   0.1     1    64   795   865   795   865 0.91 CurL-like, PKS C-terminal
+CurL-like_PKS_C      PF22621.4     64 Partial_target_WP_309061384.1 -           5494     1e-44  140.7  16.2   2   3   6.1e-12     8e-12   35.3   3.5     1    64  3131  3196  3131  3196 0.93 CurL-like, PKS C-terminal
+CurL-like_PKS_C      PF22621.4     64 Partial_target_WP_309061384.1 -           5494     1e-44  140.7  16.2   3   3   1.6e-15   2.1e-15   46.8   0.9     4    64  4663  4723  4660  4723 0.97 CurL-like, PKS C-terminal
+adh_short            PF00106.32   195 Partial_target_WP_309061384.1 -           5494   6.4e-42  133.4   0.0   1   3   4.3e-12   5.7e-12   35.7   0.0     4   118    79   196    77   242 0.84 short chain dehydrogenase
+adh_short            PF00106.32   195 Partial_target_WP_309061384.1 -           5494   6.4e-42  133.4   0.0   2   3   2.2e-18   2.9e-18   56.2   0.0     3   164  2288  2448  2286  2453 0.92 short chain dehydrogenase
+adh_short            PF00106.32   195 Partial_target_WP_309061384.1 -           5494   6.4e-42  133.4   0.0   3   3   1.7e-12   2.2e-12   37.0   0.0     4   162  3796  3953  3794  3969 0.83 short chain dehydrogenase
+adh_short_C2         PF13561.14   236 Partial_target_WP_309061384.1 -           5494   4.8e-33  104.8   0.5   1   3   8.9e-10   1.2e-09   28.2   0.1     6   160    85   240    81   260 0.85 Enoyl-(Acyl carrier protein) reductase
+adh_short_C2         PF13561.14   236 Partial_target_WP_309061384.1 -           5494   4.8e-33  104.8   0.5   2   3   1.8e-12   2.4e-12   37.0   0.2     3   116  2294  2408  2292  2442 0.78 Enoyl-(Acyl carrier protein) reductase
+adh_short_C2         PF13561.14   236 Partial_target_WP_309061384.1 -           5494   4.8e-33  104.8   0.5   3   3   2.5e-11   3.2e-11   33.3   0.0     8   156  3804  3953  3799  3973 0.85 Enoyl-(Acyl carrier protein) reductase
+Thiolase_N           PF00108.30   260 Partial_target_WP_309061384.1 -           5494   1.1e-31  100.2   8.8   1   1   8.1e-11   1.1e-10   31.5   0.1    70   115  1371  1414  1354  1423 0.85 Thiolase, N-terminal domain
+PKS_DH_N             PF21089.5    103 Partial_target_WP_309061384.1 -           5494   1.5e-23   73.0   0.7   1   2     2e-10   2.6e-10   30.5   0.1    26    97  1828  1898  1824  1900 0.92 Polyketide synthase dehydratase domain
+PKS_DH_N             PF21089.5    103 Partial_target_WP_309061384.1 -           5494   1.5e-23   73.0   0.7   2   2   2.2e-13   2.9e-13   39.9   0.1    26    98  3303  3370  3292  3374 0.88 Polyketide synthase dehydratase domain
+LPG_synthase_C       PF09924.17   297 Partial_target_WP_309061384.1 -           5494   4.2e-17   52.2   0.0   1   1   7.5e-17   9.9e-17   51.0   0.0    32   297  5149  5414  5133  5414 0.82 Phosphatidylglycerol lysyltransferase, C-terminal
+Abhydrolase_1        PF00561.27   245 Hydrolase_like_WP_309061375.1 -            761   1.2e-29   93.8   0.1   1   2   1.1e-19     6e-19   58.8   0.1     1   113   522   626   522   670 0.91 alpha/beta hydrolase fold
+Abhydrolase_1        PF00561.27   245 Hydrolase_like_WP_309061375.1 -            761   1.2e-29   93.8   0.1   2   2   9.8e-12   5.5e-11   32.7   0.0   178   245   675   743   663   743 0.82 alpha/beta hydrolase fold
+Beta_elim_lyase      PF01212.28   288 Hydrolase_like_WP_309061375.1 -            761   8.9e-28   87.5   0.0   1   1   2.2e-28   1.2e-27   87.0   0.0    47   239   123   368   116   508 0.87 Beta-eliminating lyase
+Hydrolase_4          PF12146.17   239 Hydrolase_like_WP_309061375.1 -            761     1e-14   44.5   0.0   1   1   3.5e-15     2e-14   43.6   0.0     6   232   523   736   521   739 0.76 Serine aminopeptidase, S33
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      STEP030I/05_RESULTS/PARTIAL_TARGET_3CDS.faa
+# Target file:     STEP030H/01_INPUTS/PFAM_PANEL17/CCDA1_Pfam17.hmm
+# Option settings: hmmscan --domtblout STEP030I/05_RESULTS/PARTIAL_3CDS_Pfam17.domtblout --cut_ga STEP030H/01_INPUTS/PFAM_PANEL17/CCDA1_Pfam17.hmm STEP030I/05_RESULTS/PARTIAL_TARGET_3CDS.faa 
+# Current dir:     /home/i/ACTINO_STEP030
+# Date:            Thu Nov 12 15:43:56 2026
+# [ok]

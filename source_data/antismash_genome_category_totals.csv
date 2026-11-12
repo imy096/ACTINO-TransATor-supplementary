@@ -1,0 +1,21 @@
+﻿genome_number,strain,organism_name,total_protoclusters,PKS,NRPS,RiPP,terpene,other,saccharide
+1,MA15,Streptomyces sp. MA15,49,17,9,10,6,7,0
+2,MA25(2023),Streptomyces sp. MA25(2023),50,11,11,11,9,8,0
+3,CSDS2,Streptomyces sp. CSDS2,72,16,15,12,8,20,1
+4,ZSM2,Kocuria rhizophila,7,1,1,1,2,2,0
+5,ZSW22,Streptomyces sp. ZSW22,50,12,11,10,9,8,0
+6,ZSM5,Microbacterium oryzae,5,1,0,0,2,2,0
+7,AS11,Streptomyces ficellus,44,9,4,13,8,10,0
+8,MA27,Streptomyces thermocarboxydus,20,3,0,4,7,5,1
+9,PFE3,Streptomyces sp. PFE3,39,7,6,9,9,8,0
+10,AC1,Amycolatopsis thermalba,26,2,3,6,8,7,0
+11,CSDS3,Streptomyces sp. CSDS3,77,17,13,16,9,21,1
+12,W101,Streptomyces sp. W101,43,4,11,7,11,10,0
+13,SAP2,Streptomyces sp. SAP2,39,9,8,6,10,6,0
+14,CD653,Streptomyces sp. CD653,56,21,11,11,6,7,0
+15,CA3,Streptomyces sp. CA3,69,16,12,12,8,20,1
+16,PFE11,Streptomyces sp. PFE11,43,6,9,7,9,12,0
+17,CA3-2,Streptomyces sp. CA3-2,48,12,9,10,9,8,0
+18,CD652,Streptomyces sp. CD652,35,12,3,6,7,7,0
+19,ZSW5,Streptomyces sp. ZSW5,62,13,20,9,10,10,0
+20,CCDA1,Streptomyces sp. CCDA1,44,8,11,6,7,12,0

@@ -1,0 +1,4 @@
+Label	Accession	ProteinLength	ACP6_Start	ACP6_End	PF00550_DomainScore	PF00550_IndependentE	Above_Domain_GA	AlignmentColumn	FiveResidueMotif	CandidateSerine	TrimmedNResidues	FunctionDemonstrated
+CCDA1_ACP6	MIK3493667.1	7053	5743	5800	27.2	3.2e-09	YES	31	GLTSF	S5766	1	NO
+Microbispora_ACP6	WP_168066089.1	7096	5883	5944	20.3	4.4e-07	NO	31	ALTSF	S5909	1	NO
+GnmT_ACP6	ATY69569.1	7422	6195	6254	19.9	6e-07	NO	31	GFTSF	S6221	1	NO

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<IPGReportSet xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.ncbi.nlm.nih.gov/data_specs/schema/other/seq_report/IPGReportSet.xsd">
+
+<IPGReport  ipg="1126516322" product_acc="WP_467833644.1">
+<Product  accver="WP_467833644.1" name="SDR family NAD(P)-dependent oxidoreductase" taxid="3684561" slen="6879" org="Streptomyces sp. NPDC029152" kingdom_taxid="2" kingdom="Bacteria"/>
+<ProteinList>
+<Protein  accver="WP_467833644.1" source="RefSeq" name="SDR family NAD(P)-dependent oxidoreductase" taxid="3684561" org="Streptomyces sp. NPDC029152" kingdom_taxid="2" kingdom="Bacteria" priority="0">
+<CDSList>
+<CDS  accver="NZ_JBVHWR010000019.1" start="89294" stop="109933" strand="+" taxid="3684561" org="Streptomyces sp. NPDC029152" kingdom_taxid="2" kingdom="Bacteria" strain="NPDC029152" assembly="GCF_055564355.1"/></CDSList></Protein>
+<Protein  accver="MHG4383345.1" source="INSDC" name="SDR family NAD(P)-dependent oxidoreductase" taxid="3684561" org="Streptomyces sp. NPDC029152" kingdom_taxid="2" kingdom="Bacteria" priority="60">
+<CDSList>
+<CDS  accver="JBVHWR010000019.1" start="89294" stop="109933" strand="+" taxid="3684561" org="Streptomyces sp. NPDC029152" kingdom_taxid="2" kingdom="Bacteria" strain="NPDC029152" assembly="GCA_055564355.1"/></CDSList></Protein></ProteinList>
+<Statistics  prot_count="2" nuc_count="2" assmb_count="2"/></IPGReport></IPGReportSet>

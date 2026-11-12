@@ -1,0 +1,21 @@
+manuscript_claim	support_file	verification_test_or_scope	evidence_status
+20 assemblies; 17 Streptomyces	source_data/genome_assembly_qc_20.csv	20 assembly rows, 17 Streptomyces organism annotations	direct
+Genome length and N50 values	source_data/genome_assembly_qc_20.csv	observed_size_bp, observed_n50_bp, contig_count, gc_percent	direct
+878 predicted protoclusters	source_data/antismash_all_protoclusters_878.csv	878 complete data rows	direct
+674 annotated regions	source_data/antismash_regions_674.csv	674 complete data rows	direct
+911 candidate objects	source_data/candidate_cluster_kind_counts.csv	745+111+12+43	direct
+Category distribution	source_data/antismash_genome_category_totals.csv	197 PKS, 167 NRPS, 166 RiPP, 154 terpene, 190 other, 4 saccharide	direct
+303 edge regions / 342 edge protoclusters	source_data/antismash_regions_674.csv; source_data/antismash_all_protoclusters_878.csv	Boolean contig-edge fields	direct
+3 exact transAT-PKS predictions	source_data/antismash_all_protoclusters_878.csv	product=transAT-PKS: MA15 CD653 CCDA1	direct
+CCDA1 target location and neighbors	source_data/CCDA1_antismash_region002.gbk	AC67HL_09695 CDS, GenBank coordinates, adjacent CDS	direct
+18 external reference loci	source_data/comparative_assembly_loci_18.tsv	18 assembly-specific CDS loci	direct
+15 full 14-position patterns	source_data/comparative_synteny_18.tsv	15 rows with MatchingPositions 14	direct
+Two 11-observable-position patterns	source_data/comparative_synteny_18.tsv	GCA_040299725.1; GCF_040647895.1, three OUTSIDE	direct
+202/202 high-coverage nonself positions	source_data/neighbor_positional_BLAST17.tsv	221 comparisons - 13 self - 6 outside = 202 significant HSPs	direct
+Two 100-N intervals	source_data/genomic_neighborhoods_18/GCF_031181555.1_plus_20kb.gb	sequence positions 8035-8134 and 24618-24717 (interval)	direct
+CCDA1/Microbispora/GnmT terminal serines	source_data/terminal_acp_serine_3refs.tsv	S5766, S5909, S6221; scores 27.2,20.3,19.9	direct
+Candidate ACP6 activity	source_data/terminal_acp_alignment_3refs.sto	Candidate conserved Ser; no assay	hypothesis_not_demonstrated
+GnmT colinear coverage	source_data/gnmt_colinear_chains.tsv	75.13%/83.25% query coverage from HSP chains	direct
+Distinct BGC-family count	source_data/antismash_regions_674.csv	BiG-SCAPE not run: cannot be inferred	not_established
+Geographical origin of all genomes	source_data/genome_assembly_qc_20.csv	Accession/BioSample IDs only; geolocation not independently verified	not_established
+Novel product or ACP mechanism	references/verified_reference_metadata.tsv	Literature provides precedent, no functional assay of CCDA1	not_established

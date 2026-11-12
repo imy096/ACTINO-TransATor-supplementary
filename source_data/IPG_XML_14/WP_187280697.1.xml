@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<IPGReportSet xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.ncbi.nlm.nih.gov/data_specs/schema/other/seq_report/IPGReportSet.xsd">
+
+<IPGReport  ipg="354108637" product_acc="WP_187280697.1">
+<Product  accver="WP_187280697.1" name="SDR family NAD(P)-dependent oxidoreductase" taxid="2592813" slen="7096" org="Microbispora sp. CSR-4" kingdom_taxid="2" kingdom="Bacteria"/>
+<ProteinList>
+<Protein  accver="WP_187280697.1" source="RefSeq" name="SDR family NAD(P)-dependent oxidoreductase" taxid="2592813" org="Microbispora sp. CSR-4" kingdom_taxid="2" kingdom="Bacteria" priority="0">
+<CDSList>
+<CDS  accver="NZ_VJVX01000031.1" start="39080" stop="60370" strand="-" taxid="2592813" org="Microbispora sp. CSR-4" kingdom_taxid="2" kingdom="Bacteria" strain="CSR-4" assembly="GCF_008033685.1"/></CDSList></Protein></ProteinList>
+<Statistics  prot_count="1" nuc_count="1" assmb_count="1"/></IPGReport></IPGReportSet>

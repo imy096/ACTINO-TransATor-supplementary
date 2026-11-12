@@ -1,0 +1,45 @@
+domain	accession	hmm_length	query	query_length	full_evalue	full_score	domain_number	domain_total	conditional_evalue	independent_evalue	domain_score	hmm_from	hmm_to	hmm_coverage_pct	alignment_from	alignment_to	alignment_length	envelope_from	envelope_to	envelope_length	accuracy	description
+PKS_DH_N	PF21089.5	103	MIK3493667.1	7053	1.3e-26	94.1	1	2	3.9e-10	1.1e-06	30.0	25	98	71.84	14	88	75	3	93	91	0.90	Polyketide synthase dehydratase domain
+PS-DH	PF14765.14	164	MIK3493667.1	7053	4.8e-60	203.5	1	3	8e-15	2.2e-11	45.2	3	159	95.73	121	275	155	119	278	160	0.87	Polyketide synthase dehydratase N-terminal domain
+PP-binding	PF00550.33	67	MIK3493667.1	7053	2e-77	256.8	1	6	8.6e-14	2.4e-10	42.0	3	67	97.01	421	485	65	419	485	67	0.98	Phosphopantetheine attachment site
+KR	PF08659.18	181	MIK3493667.1	7053	4.8e-149	494.1	1	3	1.2e-48	3.4e-45	155.7	1	180	99.45	733	914	182	733	915	183	0.96	KR domain
+adh_short	PF00106.32	195	MIK3493667.1	7053	9.7e-38	131.1	1	3	1.3e-11	3.6e-08	34.6	4	150	75.38	736	881	146	734	902	169	0.80	short chain dehydrogenase
+ketoacyl-synt	PF00109.33	252	MIK3493667.1	7053	0	1200.6	1	4	1.2e-90	3.3e-87	293.8	2	252	99.6	1034	1277	244	1033	1277	245	0.96	Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C	PF02801.29	119	MIK3493667.1	7053	9.2e-151	495.0	1	4	1.4e-43	3.9e-40	138.1	1	118	99.16	1285	1400	116	1285	1401	117	0.98	Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc	PF16197.13	111	MIK3493667.1	7053	1.9e-63	213.3	1	4	3e-16	8.4e-13	50.2	2	85	75.68	1404	1490	87	1403	1518	116	0.91	Ketoacyl-synthetase C-terminal extension
+CurL-like_PKS_C	PF22621.4	64	MIK3493667.1	7053	6.6e-41	139.7	1	3	3.8e-14	1.1e-10	42.9	1	64	100.0	1466	1536	71	1466	1536	71	0.88	CurL-like, PKS C-terminal
+RhiE-like_linker	PF22336.4	67	MIK3493667.1	7053	5.6e-44	149.5	1	4	1.8e-14	5.1e-11	43.9	1	66	98.51	1469	1542	74	1469	1543	75	0.92	RhiE-like, KS-MAT linker domain
+PP-binding	PF00550.33	67	MIK3493667.1	7053	2e-77	256.8	2	6	7.1e-17	2e-13	51.9	1	67	100.0	1717	1783	67	1717	1783	67	0.98	Phosphopantetheine attachment site
+ketoacyl-synt	PF00109.33	252	MIK3493667.1	7053	0	1200.6	2	4	9.3e-98	2.6e-94	317.1	3	252	99.21	1862	2110	249	1860	2110	251	0.96	Beta-ketoacyl synthase, N-terminal domain
+Thiolase_N	PF00108.30	260	MIK3493667.1	7053	1.5e-27	98.2	1	1	1.1e-10	3.1e-07	31.6	70	115	17.69	2019	2062	44	2002	2071	70	0.85	Thiolase, N-terminal domain
+Ketoacyl-synt_C	PF02801.29	119	MIK3493667.1	7053	9.2e-151	495.0	2	4	2.4e-38	6.9e-35	121.2	1	117	98.32	2118	2234	117	2118	2236	119	0.97	Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc	PF16197.13	111	MIK3493667.1	7053	1.9e-63	213.3	2	4	2.9e-13	8.2e-10	40.6	1	86	77.48	2238	2329	92	2238	2354	117	0.89	Ketoacyl-synthetase C-terminal extension
+RhiE-like_linker	PF22336.4	67	MIK3493667.1	7053	5.6e-44	149.5	2	4	5.4e-10	1.5e-06	29.5	3	66	95.52	2309	2378	70	2308	2379	72	0.87	RhiE-like, KS-MAT linker domain
+PS-DH	PF14765.14	164	MIK3493667.1	7053	4.8e-60	203.5	2	3	4.4e-29	1.2e-25	91.6	6	160	94.51	2580	2721	142	2575	2724	150	0.91	Polyketide synthase dehydratase N-terminal domain
+KR	PF08659.18	181	MIK3493667.1	7053	4.8e-149	494.1	2	3	5.6e-50	1.6e-46	160.0	1	179	98.9	2943	3121	179	2943	3123	181	0.96	KR domain
+adh_short	PF00106.32	195	MIK3493667.1	7053	9.7e-38	131.1	2	3	1.1e-16	3.1e-13	51.2	4	163	82.05	2946	3104	159	2944	3110	167	0.91	short chain dehydrogenase
+adh_short_C2	PF13561.14	236	MIK3493667.1	7053	9e-30	105.5	1	2	2e-11	5.5e-08	34.2	3	116	48.31	2951	3065	115	2949	3096	148	0.78	Enoyl-(Acyl carrier protein) reductase
+PP-binding	PF00550.33	67	MIK3493667.1	7053	2e-77	256.8	3	6	3.9e-14	1.1e-10	43.1	2	67	98.51	3233	3297	65	3232	3297	66	0.97	Phosphopantetheine attachment site
+ketoacyl-synt	PF00109.33	252	MIK3493667.1	7053	0	1200.6	3	4	5.2e-92	1.4e-88	298.2	2	251	99.21	3356	3602	247	3355	3603	249	0.95	Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C	PF02801.29	119	MIK3493667.1	7053	9.2e-151	495.0	3	4	6.3e-37	1.8e-33	116.6	2	119	99.16	3612	3743	132	3611	3743	133	0.93	Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc	PF16197.13	111	MIK3493667.1	7053	1.9e-63	213.3	3	4	4.1e-20	1.2e-16	62.6	1	107	96.4	3745	3862	118	3745	3866	122	0.82	Ketoacyl-synthetase C-terminal extension
+CurL-like_PKS_C	PF22621.4	64	MIK3493667.1	7053	6.6e-41	139.7	2	3	1.7e-11	4.7e-08	34.4	2	64	98.44	3813	3877	65	3812	3877	66	0.92	CurL-like, PKS C-terminal
+RhiE-like_linker	PF22336.4	67	MIK3493667.1	7053	5.6e-44	149.5	3	4	1.9e-14	5.2e-11	43.8	1	66	98.51	3815	3883	69	3815	3884	70	0.96	RhiE-like, KS-MAT linker domain
+PKS_DH_N	PF21089.5	103	MIK3493667.1	7053	1.3e-26	94.1	2	2	1.7e-11	4.7e-08	34.4	27	99	70.87	3985	4055	71	3977	4058	82	0.86	Polyketide synthase dehydratase domain
+PS-DH	PF14765.14	164	MIK3493667.1	7053	4.8e-60	203.5	3	3	1.4e-23	4e-20	73.7	3	160	96.34	4086	4230	145	4084	4234	151	0.95	Polyketide synthase dehydratase N-terminal domain
+Beta-ketacyl_N	PF21394.5	172	MIK3493667.1	7053	5.2e-15	57.0	1	1	4.2e-10	1.2e-06	29.8	3	149	85.47	4263	4411	149	4261	4418	158	0.89	Beta-ketoacyl synthase-like, N-terminal
+KR	PF08659.18	181	MIK3493667.1	7053	4.8e-149	494.1	3	3	3.1e-55	8.6e-52	177.2	1	180	99.45	4476	4660	185	4476	4661	186	0.98	KR domain
+adh_short	PF00106.32	195	MIK3493667.1	7053	9.7e-38	131.1	3	3	1.7e-13	4.8e-10	40.8	4	162	81.54	4479	4636	158	4477	4652	176	0.82	short chain dehydrogenase
+adh_short_C2	PF13561.14	236	MIK3493667.1	7053	9e-30	105.5	2	2	3.6e-13	1e-09	39.9	8	155	62.71	4487	4635	149	4482	4656	175	0.81	Enoyl-(Acyl carrier protein) reductase
+PP-binding	PF00550.33	67	MIK3493667.1	7053	2e-77	256.8	4	6	8.9e-17	2.5e-13	51.5	2	67	98.51	4737	4802	66	4736	4802	67	0.96	Phosphopantetheine attachment site
+ketoacyl-synt	PF00109.33	252	MIK3493667.1	7053	0	1200.6	4	4	3.2e-89	8.9e-86	289.1	2	252	99.6	4910	5150	241	4909	5150	242	0.94	Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C	PF02801.29	119	MIK3493667.1	7053	9.2e-151	495.0	4	4	3e-40	8.4e-37	127.3	1	118	99.16	5158	5282	125	5158	5283	126	0.95	Beta-ketoacyl synthase, C-terminal domain
+KAsynt_C_assoc	PF16197.13	111	MIK3493667.1	7053	1.9e-63	213.3	4	4	1.7e-17	4.7e-14	54.2	1	107	96.4	5285	5402	118	5285	5405	121	0.95	Ketoacyl-synthetase C-terminal extension
+CurL-like_PKS_C	PF22621.4	64	MIK3493667.1	7053	6.6e-41	139.7	3	3	2.3e-15	6.5e-12	46.8	4	64	95.31	5359	5419	61	5356	5419	64	0.97	CurL-like, PKS C-terminal
+RhiE-like_linker	PF22336.4	67	MIK3493667.1	7053	5.6e-44	149.5	4	4	9.1e-16	2.6e-12	48.0	2	67	98.51	5360	5426	67	5359	5426	68	0.97	RhiE-like, KS-MAT linker domain
+PP-binding	PF00550.33	67	MIK3493667.1	7053	2e-77	256.8	5	6	1.7e-16	4.7e-13	50.7	2	67	98.51	5612	5677	66	5611	5677	67	0.96	Phosphopantetheine attachment site
+PP-binding	PF00550.33	67	MIK3493667.1	7053	2e-77	256.8	6	6	3.5e-09	9.9e-06	27.2	5	66	92.54	5743	5800	58	5742	5801	60	0.92	Phosphopantetheine attachment site
+LPG_synthase_C	PF09924.17	297	MIK3493667.1	7053	1.1e-12	49.2	1	1	9.1e-16	2.5e-12	48.0	30	297	90.24	5895	6162	268	5878	6162	285	0.83	Phosphatidylglycerol lysyltransferase, C-terminal
+Beta_elim_lyase	PF01212.28	288	MIK3493667.1	7053	1.5e-23	85.1	1	1	1.4e-26	3.8e-23	83.7	47	238	66.67	6410	6647	238	6403	6721	319	0.88	Beta-eliminating lyase
+Hydrolase_4	PF12146.17	239	MIK3493667.1	7053	6.9e-09	36.9	1	1	5.6e-12	1.6e-08	35.7	6	232	94.98	6815	7028	214	6813	7031	219	0.82	Serine aminopeptidase, S33
+Abhydrolase_1	PF00561.27	245	MIK3493667.1	7053	6.8e-21	76.6	1	1	8.8e-23	2.5e-19	71.5	1	245	100.0	6814	7035	222	6814	7035	222	0.75	alpha/beta hydrolase fold

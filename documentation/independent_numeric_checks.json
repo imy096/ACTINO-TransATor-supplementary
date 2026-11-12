@@ -1,0 +1,27 @@
+{
+  "genome_n": 20,
+  "distinct_biosample_n": 20,
+  "region_n": 674,
+  "protocluster_n": 878,
+  "candidate_cluster_objects": 911,
+  "category_totals": {
+    "PKS": 197,
+    "NRPS": 167,
+    "RiPP": 166,
+    "terpene": 154,
+    "other": 190,
+    "saccharide": 4
+  },
+  "region_contig_edge_n": 303,
+  "protocluster_contig_edge_n": 342,
+  "reference_loci_n": 18,
+  "neighbor_tests_with_self": 221,
+  "neighbor_hits_with_self": 215,
+  "nonself_possible_pairs": 208,
+  "nonself_hit_pairs": 202,
+  "nonself_outside_pairs": 6,
+  "nonself_high_coverage_pairs": 202,
+  "biG_SCAPE_executed": false,
+  "individual_geographical_metadata_verified": false,
+  "metabolite_identity_experimentally_validated": false
+}
